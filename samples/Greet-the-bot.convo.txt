@@ -1,0 +1,7 @@
+Greet the bot
+
+#me
+hello
+
+#bot
+You said: hello
